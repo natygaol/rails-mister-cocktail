@@ -21,12 +21,6 @@ class CocktailsController < ApplicationController
     end
   end
 
-  # def update
-  #   @cocktail = Cocktail.find(params[:id])
-  #   @cocktail.update(cocktail_params)
-  #   # redirect_to
-  # end
-
   private
 
   def cocktail_params
